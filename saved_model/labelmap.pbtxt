@@ -1,0 +1,20 @@
+item {
+  id: 1
+  name: 'climatiseure'
+}
+
+item {
+  id: 2
+  name: 'Laptop'
+}
+
+item {
+  id: 3
+  name: 'Microwave'
+}
+
+item {
+  id: 4
+  name: 'Refrigeratueure'
+}
+
